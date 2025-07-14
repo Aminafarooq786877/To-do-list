@@ -1,2 +1,3 @@
 # NewCoding
-new repo
+To-do-list
+Author - Amina Farooq
