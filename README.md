@@ -1,4 +1,4 @@
 # NewCoding
 To-do-list.
 <br>
-Author - Amina Farooq
+Author - Amina Farooq (git repo)
